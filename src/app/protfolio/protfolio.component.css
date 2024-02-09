@@ -1,0 +1,16 @@
+.animation-bar {
+width: 80px;
+height: 3px;
+}
+.layer {
+  background-color: #1aba9fb6;
+  opacity: 0;
+  transition: 1s;
+}
+.fs-size {
+  font-size: 120px;
+}
+
+.inner:hover .layer {
+  opacity: 1;
+}

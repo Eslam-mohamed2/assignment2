@@ -1,0 +1,10 @@
+.animation-bar {
+width: 80px;
+height: 3px;
+}
+
+.input-animation {
+  border-left: none !important;
+  border-right: none !important;
+  border-top: none !important;
+}

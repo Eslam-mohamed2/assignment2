@@ -1,0 +1,8 @@
+.active {
+  padding: 10px 10px;
+  background-color:#1ABC9C;
+  border-radius: 10px;
+}
+.bg-color {
+  background-color: #2C3E50 !important;
+}
